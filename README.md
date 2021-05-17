@@ -56,5 +56,5 @@ $ python train.py --help
 ![alt text](imgs/miniimagenet_64.png)
 
 ## Acknowledgement
-Some of the codes are built upon [FIGR](https://github.com/LuEE-C/FIGR). Thanks them for their great work!
+Some of the codes are built upon [FIGR](https://github.com/LuEE-C/FIGR) and [RaGAN](https://github.com/AlexiaJM/RelativisticGAN). Thanks them for their great work!
 <em>FAML</em> is freely available for non-commercial use. Don't hesitate to drop e-mail if you have any problem.
