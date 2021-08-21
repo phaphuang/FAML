@@ -29,7 +29,7 @@ The default folder of datasets are placed under `data`.
 
 #### VggFace and miniImageNet datasets
 VggFace
-1. Downloaded the modified [32x32 VggFace](https://bit.ly/3aDmEcH) and [64x64 VggFace](https://bit.ly/3dP9RpF) datasets and their [training](https://bit.ly/3vhiyPh) and [validation](https://bit.ly/3v9S8Pw) tasks.
+1. Downloaded the modified [32x32 VggFace](https://bit.ly/3aDmEcH) and [64x64 VggFace](https://bit.ly/3sD0XB6) datasets and their [training](https://bit.ly/3vhiyPh) and [validation](https://bit.ly/3v9S8Pw) tasks.
 2. Place all downloaded files in `data/vgg/`
 
 miniImageNet
