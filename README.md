@@ -22,6 +22,12 @@ If this code is useful for you, please consider citing the paper as following de
     $ cd FAML
     $ pip install -r requirements.txt
 
+## Datasets
+* MNIST: 10 balanced classes [link](http://yann.lecun.com/exdb/mnist/)
+* Omniglot: 1623 handwritten characters from 50 different alphabets. Each of the 1623 characters was drawn online via Amazon's Mechanical Turk by 20 different people [link](https://github.com/brendenlake/omniglot/)
+* VGG-Faces: 2395 categories [link](https://drive.google.com/drive/folders/15x2C11OrNeKLMzBDHrv8NPOwyre6H3O5)
+* miniImageNet: 100 classes with 600 samples of 84×84 color images per class. [link](https://github.com/yaoyao-liu/mini-imagenet-tools)
+
 ## Preparing datasets
 The default folder of datasets are placed under `data`.
 
