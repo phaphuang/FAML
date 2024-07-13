@@ -1,4 +1,4 @@
-# FAML
+# Fast Adaptive Meta-Learning for Few-Shot Image Generation (FAML)
 The official Pytorch implementation of IEEE Transactions on Multimedia 2021 [Fast Adaptive Meta-Learning for Few-Shot Image Generation](https://ieeexplore.ieee.org/abstract/document/9424414/) (FAML).
 
 If this code is useful for you, please consider citing the paper as following detail:
